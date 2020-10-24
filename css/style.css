@@ -4,3 +4,9 @@
   margin: 0;
   padding: 0;
 }
+/*body*/
+body{
+  font-family: fantacy,"times new roman",serif;
+  color: #E5E5E5;
+  line-height: normal;
+}
